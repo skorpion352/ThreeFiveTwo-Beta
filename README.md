@@ -1,1 +1,1 @@
-The beta for the new ThreeFiveTwo website (currently veiwable at devtest.threefivetwo.me)
+ A retiedvbeta for the new ThreeFiveTwo website. New repository coming Soon™
