@@ -1,1 +1,1 @@
- A retiedvbeta for the new ThreeFiveTwo website. New repository coming Soon™
+ A retied beta for the new ThreeFiveTwo website. New repository coming Soon™
